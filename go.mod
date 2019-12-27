@@ -1,4 +1,4 @@
-module golang.org/x/lint
+module github.com/morgasaurus/lint
 
 go 1.11
 
