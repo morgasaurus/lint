@@ -4,6 +4,8 @@ Golint is a linter for Go source code.
 
 ## Installation
 
+(Note: some refs have been adjusted for this fork)
+
 Golint requires a
 [supported release of Go](https://golang.org/doc/devel/release.html#policy).
 
